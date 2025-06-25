@@ -23,11 +23,11 @@ Tương tác Cơ sở dữ liệu: Sử dụng Eloquent ORM và Migrations để
 Bảo mật: Áp dụng các biện pháp bảo mật tiêu chuẩn của Laravel như CSRF Protection, XSS Protection (qua Blade escaping), Data Validation (qua Form Requests), và bảo vệ khỏi SQL Injection (qua Eloquent).
 Sơ đồ cấu trúc (Class Diagram)
 Sơ đồ thể hiện mối quan hệ giữa các Model chính trong dự án.
-**![ui](images/sodothuattoantoystore.drawio.png)**
+**![Flow Activity Flow](images/sodothuattoantoystore.drawio.png)**
 Sơ đồ thuật toán (Activity Diagram)
 Thuật toán: Hiển thị sản phẩm theo Danh mục được chọn
 Sơ đồ này mô tả luồng hoạt động khi người dùng click vào một danh mục ở sidebar để lọc sản phẩm.
-**![ui](images/toystore.drawio.png)**
+**![Flow Activity Flow](images/toystore.drawio.png)**
 Ảnh chụp màn hình chức năng chính
 <details>
 <summary><strong>Nhấn vào đây để xem ảnh chụp màn hình</strong></summary>
